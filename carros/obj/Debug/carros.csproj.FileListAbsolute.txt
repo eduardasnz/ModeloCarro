@@ -1,0 +1,10 @@
+C:\Users\Maria Eduarda\Desktop\C# Apostilas\exercicios\ModelosCarros\carros\carros\bin\Debug\carros.exe.config
+C:\Users\Maria Eduarda\Desktop\C# Apostilas\exercicios\ModelosCarros\carros\carros\bin\Debug\carros.exe
+C:\Users\Maria Eduarda\Desktop\C# Apostilas\exercicios\ModelosCarros\carros\carros\bin\Debug\carros.pdb
+C:\Users\Maria Eduarda\Desktop\C# Apostilas\exercicios\ModelosCarros\carros\carros\obj\Debug\carros.csproj.AssemblyReference.cache
+C:\Users\Maria Eduarda\Desktop\C# Apostilas\exercicios\ModelosCarros\carros\carros\obj\Debug\carros.Properties.Resources.resources
+C:\Users\Maria Eduarda\Desktop\C# Apostilas\exercicios\ModelosCarros\carros\carros\obj\Debug\carros.csproj.GenerateResource.cache
+C:\Users\Maria Eduarda\Desktop\C# Apostilas\exercicios\ModelosCarros\carros\carros\obj\Debug\carros.csproj.CoreCompileInputs.cache
+C:\Users\Maria Eduarda\Desktop\C# Apostilas\exercicios\ModelosCarros\carros\carros\obj\Debug\carros.exe
+C:\Users\Maria Eduarda\Desktop\C# Apostilas\exercicios\ModelosCarros\carros\carros\obj\Debug\carros.pdb
+C:\Users\Maria Eduarda\Desktop\C# Apostilas\exercicios\ModelosCarros\carros\carros\obj\Debug\carros.Carros.resources
